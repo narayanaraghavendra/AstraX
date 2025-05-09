@@ -1,0 +1,10 @@
+2025-05-09 21:32:33,496 - INFO - Created folder: astraX\astraX\core
+2025-05-09 21:32:33,496 - INFO - Created folder: astraX\astraX\embeddings
+2025-05-09 21:32:33,496 - INFO - Created folder: astraX\astraX\utils
+2025-05-09 21:32:33,496 - INFO - Created folder: astraX\astraX\agents
+2025-05-09 21:32:33,496 - INFO - Created folder: astraX\astraX\models
+2025-05-09 21:32:33,496 - INFO - Created folder: astraX\astraX\api_keys
+2025-05-09 21:32:33,496 - INFO - Created folder: astraX\examples
+2025-05-09 21:32:33,496 - INFO - Created folder: astraX\tests
+2025-05-09 21:32:33,496 - ERROR - Error occurred during the folder creation process: [Errno 2] No such file or directory: 'astraX/core\\__init__.py'
+2025-05-09 21:32:33,496 - CRITICAL - Critical error occurred: [Errno 2] No such file or directory: 'astraX/core\\__init__.py'
